@@ -1,2 +1,2 @@
 # SuperRainbowReef
-Enjoy this Brickreaker style game!
+Enjoy this Brickbreaker style game!
